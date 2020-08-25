@@ -8,5 +8,11 @@ Run the following command in your terminal/hypertext to download all dependency 
 npm install
 ```
 
+## Usage
+Run the following command in your terminal/hypertext to run the application.
+``` bash
+node app.js
+```
+
 ## Contributing
 Pull requests are welcome.
